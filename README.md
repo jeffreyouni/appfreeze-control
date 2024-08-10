@@ -50,7 +50,7 @@ AppFreeze Control is a powerful tool for managing and controlling running applic
 1. Clone the Repository:
 
 ```bash
-git clone <https://github.com/jeffreyouni/appfreeze-control.git>
+git clone https://github.com/jeffreyouni/appfreeze-control.git
 cd appfreeze-control
 ```
 
